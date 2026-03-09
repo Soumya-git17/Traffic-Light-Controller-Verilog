@@ -23,3 +23,8 @@ Each state is maintained for a specific clock duration before transitioning to t
 - Automatic state transitions
 - Safe traffic signal sequencing
 - Verilog testbench for simulation
+
+## Tools Used
+
+- Verilog HDL
+- Icarus Verilog
